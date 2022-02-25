@@ -1,13 +1,17 @@
 
 - name: PsychoPy
   percentage: 90
-  color: danger
+  color: info
 
 - name: SPSS
   percentage: 88
-  color: secondary
+  color: warning
   
 - name: JAMOVI
   percentage: 95
-  color: light
+  color: success
+  
+  
+  
+#   color: secondary (grey) / success (green) / danger (red) / warning / info (blue) / light (white) / dark (choose one only, default is primary)
 

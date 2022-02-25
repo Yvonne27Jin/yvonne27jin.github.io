@@ -2,17 +2,13 @@
   percentage: 95
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
-  color: success
-
 - name: DaVinci Resolve
   percentage: 90
-  color: danger
+  color: warning
 
 - name: Adobe Premiere Pro
   percentage: 80
-  color: warning
+  color: success
 
 
-#   color: secondary / success / danger / warning / info / light / dark (choose one only, default is primary)
+#   color: secondary (grey) / success (green) / danger (red) / warning (yellow) / info (blue) / light (white) / dark (choose one only, default is primary)
