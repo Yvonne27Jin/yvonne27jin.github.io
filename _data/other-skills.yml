@@ -1,0 +1,18 @@
+- name: Adobe Photoshop, Adobe Lightroom
+  percentage: 95
+  color: info
+
+- name: Adobe Illustrator
+  percentage: 90
+  color: success
+
+- name: DaVinci Resolve
+  percentage: 90
+  color: danger
+
+- name: Adobe Premiere Pro
+  percentage: 80
+  color: warning
+
+
+#   color: secondary / success / danger / warning / info / light / dark (choose one only, default is primary)

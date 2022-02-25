@@ -1,0 +1,13 @@
+
+- name: PsychoPy
+  percentage: 90
+  color: danger
+
+- name: SPSS
+  percentage: 88
+  color: secondary
+  
+- name: JAMOVI
+  percentage: 95
+  color: light
+
