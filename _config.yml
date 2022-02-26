@@ -54,9 +54,9 @@ permalink: /blog/:title
 
 ### Collections ###
 collections:
-  photography:
+  projects:
     output: true
-    permalink: /photography/:name
+    permalink: /projects/:name
 #  elements:                                             # For Documentation Only
 #    output: true                                        # For Documentation Only
 
