@@ -54,9 +54,9 @@ permalink: /blog/:title
 
 ### Collections ###
 collections:
-  projects:
+  photography:
     output: true
-    permalink: /projects/:name
+    permalink: /photography/:name
 #  elements:                                             # For Documentation Only
 #    output: true                                        # For Documentation Only
 
@@ -77,7 +77,7 @@ analytics:
 defaults:
   - scope:
       path: ""
-      type: "projects"
+      type: "photography"
     values:
       layout: "page"
 #  - scope:                                              # For Documentation Only
