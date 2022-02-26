@@ -77,7 +77,7 @@ analytics:
 defaults:
   - scope:
       path: ""
-      type: "photography"
+      type: "projects"
     values:
       layout: "page"
 #  - scope:                                              # For Documentation Only
