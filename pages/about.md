@@ -8,7 +8,7 @@ weight: 4
 # **About Me**
 
 Hey! I am **{{ site.author.name }}** :wave:,<br>
-Yvonne's interest lies at the intersection of data analysis and social science. She is now interested in computational social sciences, specifially in quantifying behavioural irrationality and opinion change, both on the individual level and societal level. She loves diving deeper into evidence-driven policymaking and how to make informed decisions that can effectively benefit society. 
+My interest lies at the intersection of data analysis and social science. I'm now particularly interested in computational social sciences, specifially in quantifying behavioural irrationality and opinion change, both on the individual level and societal level. I love diving deeper into evidence-driven policymaking and how to make informed decisions that can effectively benefit society. I also document my photography work [here](URL "https://yaqi-jin.github.io")
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
