@@ -1,7 +1,7 @@
 ---
-name: Dummy Project
-tools: [Ignore me]
-image: https://www.sketchappsources.com/resources/source-image/coo-app-concept-subgaurav.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+name: Sentiment Analysis of COVID-19 public discourse on Weibo
+tools: [Sentiment Analysis, Public Opinion，Python, R]
+image: https://github.com/Yvonne27Jin/POLI3115/blob/main/figures/sentiment_COVID_average.png?raw=true
+description: Sentiment Analysis of COVID-19 public discourse on Weibo.
+external_url: https://github.com/Yvonne27Jin/POLI3115
 ---
