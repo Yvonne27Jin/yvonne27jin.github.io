@@ -1,13 +1,13 @@
 - name: Adobe Photoshop, Adobe Lightroom
-  percentage: 95
+  percentage: 90
   color: info
 
 - name: DaVinci Resolve
-  percentage: 90
+  percentage: 85
   color: warning
 
 - name: Adobe Premiere Pro
-  percentage: 80
+  percentage: 70
   color: success
 
 

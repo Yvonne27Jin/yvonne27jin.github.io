@@ -17,6 +17,3 @@ My interest lies at the intersection of data analysis and social science. I'm no
 
 </div>
 
-<div class="row">
-{% include about/timeline.html %}
-</div>
