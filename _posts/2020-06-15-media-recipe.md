@@ -1,12 +1,12 @@
 ---
 title: Media recipe
-tags: [Social Media, information consumption]
+tags: [Social Media]
 style: 
 color: 
-description: Minimalism is the art of knowing how much is just enough. 
+description: Blablabla
 ---
 
- [link](https://)
+ [Text](https://)
 
 
 
