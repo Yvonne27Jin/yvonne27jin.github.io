@@ -8,7 +8,7 @@ weight: 4
 # **About Me**
 
 Hey! I am **{{ site.author.name }}** :wave:,<br>
-My interest lies at the intersection of data analysis and social science. I'm now particularly interested in computational social sciences, specifially in quantifying behavioural irrationality and opinion change, both on the individual level and societal level. I love diving deeper into evidence-driven policymaking and how to make informed decisions that can effectively benefit society. I also document my photography work [here](URL "https://phmuseum.com/yjin1").
+My interest lies at the intersection of data analysis and social science. I'm now particularly interested in computational social sciences, specifially in quantifying behavioural irrationality and opinion change, both on the individual level and societal level. I love diving deeper into evidence-driven policymaking and how to make informed decisions that can effectively benefit society. I also document my photography work [here](https://phmuseum.com/yjin1).
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
